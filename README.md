@@ -1,4 +1,4 @@
 # python-project
 SistersLab Python Akademisi 
 
-Akademi içerisinde anlatılan konular yer almaktadır.
+Akademi içerisinde 3 ay boyunca anlatılan konuları bu repoda bulunduracağım.
